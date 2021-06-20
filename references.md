@@ -5,3 +5,6 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20an
 
 ### Reverse Shell Generator
 https://www.revshells.com/
+
+### Stable PHP Reverse Shell
+https://raw.githubusercontent.com/scr1ptie/shells/main/php_rev.php
